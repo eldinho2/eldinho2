@@ -1,4 +1,15 @@
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=eldinho2&show_icons=true&theme=dracula&count_private=true)
+# Vinicius
+
+[![Linkedin Badge](https://img.shields.io/badge/Vinícius-6633cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-saiao-goncalves/)
+[![Email Badge](https://img.shields.io/badge/vinisaio10@gmail.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white)](mailto:vinisaio10@gmail.com)
+
+Meu nome é Vinícius e sou Web Developer. Apaixonado pela comunidade javascript, amo me relacionar com as pessoas, entender problemas e propor soluções. Atualmente trabalho com Frontend utilizando **React JS Utilizando TypeScript**, Mas também tenho conhecimento em Backend usando **Node**.
+
+Formado em Bacharelado em Sistemas de Informação na UNIFATECIE, amo estudar e estar por dentro do que aconteçe de novo na área de tecnologia.
+
+Amo programar, e amo transmitir meu conhecimento as pessoas ao meu redor.
+
+#### :mailbox: Vamos trocar uma ideia?
 
 ## Tecnologias que eu uso no meu dia
 
@@ -10,6 +21,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-email: vinisaio10@gmail.com
-cel: 21 99217-6099
