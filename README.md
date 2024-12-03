@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Vinícius-6633cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-saiao-goncalves/)
 [![Email Badge](https://img.shields.io/badge/vinisaio10@gmail.com-6633cc?style=flat-square&logo=Microsoft&logoColor=white)](mailto:vinisaio10@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-6633cc?style=flat-square&logo=Microsoft&logoColor=white)](https://vinicius-sg-dev.vercel.app/)
+
 
 Meu nome é Vinícius e sou Web Developer. Apaixonado pela comunidade javascript, amo me relacionar com as pessoas, entender problemas e propor soluções. Atualmente trabalho com Frontend utilizando **React JS Utilizando TypeScript**, Mas também tenho conhecimento em Backend usando **Node**.
 
